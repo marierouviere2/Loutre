@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Loutre</string>
+    <string name="get_access_token">Get access token</string>
+</resources>
